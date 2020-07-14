@@ -1,7 +1,7 @@
 # TIL
 ✏️ 우당탕탕 신입 일기 (분류 없이 기록만)
 
-> 공부 동반자 소여미의 TIL [devSoyoung/TIL](https://github.com/devOTTO/TIL.git) 양식 참고
+> 공부 동반자 소여미의 TIL [devSoyoung/TIL](https://github.com/devSoyoung/TIL) 양식 참고
 
 ***
 # [TIL] xxxx-xx-xx
